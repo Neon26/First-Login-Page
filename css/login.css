@@ -1,0 +1,129 @@
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    height: 100%;
+    padding-bottom: 1% ;
+}
+.box3{
+    display: flex;
+    justify-content: center;
+    
+}
+.conatinersign-in{
+    display: flex;
+    justify-content:space-between;    
+    flex-direction:column;
+    align-content: center;
+    align-items: flex-start;    
+    border: 1px solid #D5D5D5;
+}
+.signin{
+    align-items: flex-start;
+    padding-left: 5%;
+
+}
+#signfont{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 25px;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+#email-number{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+#email{
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+    width: 350px;
+    height: 40px;
+}
+#button{
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+    width: 350px;
+    height: 40px;
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+}
+#button2{
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+    width: 350px;
+    margin-bottom: 2%;
+    height: 30px;
+}
+.new{
+    display: flex;
+    flex-direction:column;
+    align-content: center;
+    align-items: center;
+
+}
+.create{
+    display: flex;
+    flex-direction:column;
+    align-content: center;
+    align-items: center;
+
+}
+.conditions{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+
+}
+.terms{
+    display: flex;
+    flex-direction:column;
+    align-content: center;
+    align-items: center;
+
+}
+.line hr{
+    width: 100%;
+    
+}
+.line p{
+    white-space: nowrap;
+    
+         
+}
+.line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:1px ;
+    padding: 30px 0px 20px 0px;
+    
+}
+.footer{
+    background: #D5D5D5;
+background: -moz-linear-gradient(top, #D5D5D5 0%, #E4ECEC 45%, #FDFEFE 100%);
+background: -webkit-linear-gradient(top, #D5D5D5 0%, #E4ECEC 45%, #FDFEFE 100%);
+background: linear-gradient(to bottom, #D5D5D5 0%, #E4ECEC 45%, #FDFEFE 100%);
+}
+a {
+    color:#0066C0 ;
+    text-decoration: none;
+}
